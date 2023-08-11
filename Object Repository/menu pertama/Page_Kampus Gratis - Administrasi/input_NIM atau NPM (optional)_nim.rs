@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_NIM atau NPM (optional)_nim</name>
+   <tag></tag>
+   <elementGuidId>708bf1a7-069b-4bf0-a8fd-1ac483d08b13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='nim']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;nim&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>513d73f0-95b7-4566-9cb3-ea5a26205e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9556adea-2b28-46f1-b376-7bdd47ccf7e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>control</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>d07eaf8e-f887-44cb-878a-e070c88e89e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>outline-none focus:outline-none w-full text-[#000] text-sm border-[0.5px] border-neutral-400 shadow-sm py-2 rounded-md  px-4 </value>
+      <webElementGuid>c7df7cd0-0ce5-4d50-9d2b-c99c0feb7af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>NIM atau NPM (optional)</value>
+      <webElementGuid>c7e9e585-1a81-4fe9-8e87-db64dfd5f7ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>nim</value>
+      <webElementGuid>9df50e7e-fc1d-4914-82ad-69bf37c65d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan NIM atau NPM (optional)</value>
+      <webElementGuid>63b049be-a501-4be7-b163-5102e9079027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/section[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;bg-[#F5F5F5] w-full pb-[249px]&quot;]/section[@class=&quot;mt-[40px] lg:px-[70px] md:px-[60px] px-[20px] flex flex-col&quot;]/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;bg-white rounded-[8px] md:w-[95%] w-full flex auto p-4 flex-col cursor-pointer&quot;]/section[@class=&quot;flex&quot;]/div[@class=&quot;w-full relative&quot;]/div[@class=&quot;mb-8&quot;]/div[1]/div[@class=&quot;p-6 text-[14px] font-[400] text-[#262626] dark:text-[#fff] undefined&quot;]/form[1]/div[@class=&quot;lg:flex w-full gap-[55px]&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;form-label mb-3&quot;]/section[@class=&quot;flex flex-col w-auto my-1 gap-y-2&quot;]/section[@class=&quot;relative flex items-center w-auto&quot;]/input[@class=&quot;outline-none focus:outline-none w-full text-[#000] text-sm border-[0.5px] border-neutral-400 shadow-sm py-2 rounded-md  px-4&quot;]</value>
+      <webElementGuid>71afc475-ac7d-4bd7-8b20-e8717d420bc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='nim']</value>
+      <webElementGuid>47b39ce8-a9c6-457f-a301-2395bc55d1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/section/div/div/section/div/div[2]/div/div/form/div/div/div[5]/section/section/input</value>
+      <webElementGuid>b783d9c4-37e0-4a74-8e57-de8d5694224d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/section/section/input</value>
+      <webElementGuid>f97d6779-e6da-4ac8-aae0-2620625cd183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'nim' and @placeholder = 'Masukkan NIM atau NPM (optional)']</value>
+      <webElementGuid>ded8e500-f983-444e-8f5c-a5c88a54a0ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

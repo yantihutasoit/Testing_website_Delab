@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Informasi Pribadi</name>
+   <tag></tag>
+   <elementGuidId>e8a72205-68ae-4056-bebb-fbcdd7cca25e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dba0a86b-e7f8-4052-a0fb-f7a9b216d062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>28865612-f116-4461-86a2-28ece8984eef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-between w-full p-4 font-medium text-left rounded-xl  bg-[#F5F5F5] undefined </value>
+      <webElementGuid>50c82be6-dbb8-4503-889c-0a8e5e37eea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Informasi Pribadi</value>
+      <webElementGuid>f4e777db-dec1-4237-ba37-d2ea84c298a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/section[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;bg-[#F5F5F5] w-full pb-[249px]&quot;]/section[@class=&quot;mt-[40px] lg:px-[70px] md:px-[60px] px-[20px] flex flex-col&quot;]/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;bg-white rounded-[8px] md:w-[95%] w-full flex auto p-4 flex-col cursor-pointer&quot;]/section[@class=&quot;flex&quot;]/div[@class=&quot;w-full relative&quot;]/div[@class=&quot;mb-8&quot;]/h2[1]/button[@class=&quot;flex items-center justify-between w-full p-4 font-medium text-left rounded-xl  bg-[#F5F5F5] undefined&quot;]</value>
+      <webElementGuid>44aa55e3-344a-4afc-b4dd-634d7718584a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>ce91e6d9-44ec-4463-a5b0-75bdd518cdda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/section/div/div/section/div/div[2]/h2/button</value>
+      <webElementGuid>77cf5502-8ae5-4c18-abd7-e83d38634114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Berkas'])[1]/following::button[1]</value>
+      <webElementGuid>2a42c357-9796-4295-9e53-187ffca469c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Pekerjaan'])[1]/following::button[1]</value>
+      <webElementGuid>1caae6bf-7506-4168-b9a6-4f4d9e686baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Pekerjaan'])[2]/preceding::button[1]</value>
+      <webElementGuid>aefd3ee9-39c9-4b45-8a89-d3f060b0de3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/button</value>
+      <webElementGuid>dbc8a54b-a3a5-4fe6-a6ee-74ac762c12eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Informasi Pribadi' or . = 'Informasi Pribadi')]</value>
+      <webElementGuid>b9894bfa-7a86-49c3-aa69-624b0b92721c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Penugasan</name>
+   <tag></tag>
+   <elementGuidId>30a9688e-eee9-4a46-82b8-698517c3b7e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/nav/a[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7fc6f45e-365b-4019-99ff-0c49c1d4b86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penugasan</value>
+      <webElementGuid>34fbf063-8f4e-4a29-8ce8-6cc9de6330c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/nav[@class=&quot;bg-neutral-50 hidden border-b-[1px] border-t-[1px] border-neutral-100 py-3 w-full px-8 md:-px-14 lg:px-16 lg:flex gap-4&quot;]/a[@class=&quot;hover:text-version3-500   px-4 py-2.5 text-sm transition-all ease-in-out duration-300&quot;]/p[1]</value>
+      <webElementGuid>ec89d2ea-841d-41b6-984e-d73adf355683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/nav/a[3]/p</value>
+      <webElementGuid>7635bc01-29f7-4ce0-a391-57e5817a8636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[3]</value>
+      <webElementGuid>75e39fd9-6576-43bc-a5a5-e886c181ceae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrasi'])[1]/following::p[3]</value>
+      <webElementGuid>540e9704-3ceb-4d17-bf90-7ecf3c3241b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello, Bandi'])[1]/preceding::p[3]</value>
+      <webElementGuid>0f1e138d-d2fa-49bc-9c9a-4520c73a5de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamu'])[1]/preceding::p[3]</value>
+      <webElementGuid>45aa6896-d0aa-471a-8123-325095debcc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Penugasan']/parent::*</value>
+      <webElementGuid>867e7927-673d-406d-8a71-cb7ffefc7e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/p</value>
+      <webElementGuid>7d55cbda-e7cf-4b62-9d8f-a2e47d3e89ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Penugasan' or . = 'Penugasan')]</value>
+      <webElementGuid>5e3075dc-ddb9-4650-95b8-6410e28f1ebe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

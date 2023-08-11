@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Rencana Studi</name>
+   <tag></tag>
+   <elementGuidId>7dd1b5cd-edc7-4848-a29a-2095dfc7f882</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/nav/a[4]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>654fd88d-359b-4c47-bb9e-217c9d446517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rencana Studi</value>
+      <webElementGuid>384302e4-00db-415c-8362-63b78244cc25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/nav[@class=&quot;bg-neutral-50 hidden border-b-[1px] border-t-[1px] border-neutral-100 py-3 w-full px-8 md:-px-14 lg:px-16 lg:flex gap-4&quot;]/a[@class=&quot;hover:text-version3-500   px-4 py-2.5 text-sm transition-all ease-in-out duration-300&quot;]/p[1]</value>
+      <webElementGuid>66b8af77-2b86-4676-ae2e-739676b2d9f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/nav/a[4]/p</value>
+      <webElementGuid>d91e7d74-9712-4910-93e7-21928a7bb2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[4]</value>
+      <webElementGuid>48f8a756-bdd1-4aa8-997d-e028da37b50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrasi'])[1]/following::p[4]</value>
+      <webElementGuid>9795a998-ed7f-49f8-a85c-7f447766fecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembiayaan dan Optimalisasi Bisnis'])[1]/preceding::p[2]</value>
+      <webElementGuid>1d44c71f-8475-49fb-9222-d0ce4978c8ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rencana Studi']/parent::*</value>
+      <webElementGuid>25dab02a-ac91-45e3-a1b3-a23482ebe02c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/p</value>
+      <webElementGuid>09dfb7d6-1908-4a91-aba1-03b62164b9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Rencana Studi' or . = 'Rencana Studi')]</value>
+      <webElementGuid>ecc570e3-ff2d-4475-8961-e5eb47bc2ce1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

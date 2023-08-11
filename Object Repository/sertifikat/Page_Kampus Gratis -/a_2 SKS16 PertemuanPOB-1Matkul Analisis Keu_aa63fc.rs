@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2 SKS16 PertemuanPOB-1Matkul Analisis Keu_aa63fc</name>
+   <tag></tag>
+   <elementGuidId>8206ecdb-a6ae-423f-a61a-bfff9472c8a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div/div[2]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a0a89d5e-8c87-4ef9-9b66-8c4c21801e99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/studi-ku/d6746cb6-4fe7-4510-8000-6e6eb774c420</value>
+      <webElementGuid>3f3e2fe3-f924-4353-93d0-7e081d273044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2 SKS16 PertemuanPOB-1Matkul Analisis KeuanganTeacher 244%</value>
+      <webElementGuid>049d82e3-fdcc-4496-8474-2af27a54e44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/section[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-[85%] mx-auto&quot;]/div[@class=&quot;relative grid lg:grid-cols-3 grid-cols-1 gap-y-7 gap-x-9 mt-[30px] pb-40&quot;]/a[1]</value>
+      <webElementGuid>2b765cb4-0bfd-4fc4-bb45-7c052969cfaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div[2]/div[2]/a</value>
+      <webElementGuid>07e1fba9-b686-4856-b696-618ddf77abf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mata Kuliah'])[1]/following::a[1]</value>
+      <webElementGuid>e18d8315-4958-4018-a81f-643fae4964b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembiayaan dan Optimalisasi Bisnis'])[1]/following::a[1]</value>
+      <webElementGuid>24eba019-f826-4a53-b7d6-2dad364adc6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/studi-ku/d6746cb6-4fe7-4510-8000-6e6eb774c420')]</value>
+      <webElementGuid>9cdba48d-2b55-4ce9-8cc5-e156cf7bd359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>7a3650f3-c08c-483e-8447-da5d83c28627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/studi-ku/d6746cb6-4fe7-4510-8000-6e6eb774c420' and (text() = '2 SKS16 PertemuanPOB-1Matkul Analisis KeuanganTeacher 244%' or . = '2 SKS16 PertemuanPOB-1Matkul Analisis KeuanganTeacher 244%')]</value>
+      <webElementGuid>5e561dab-7bc9-4db1-bb4c-0b773dd47b77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

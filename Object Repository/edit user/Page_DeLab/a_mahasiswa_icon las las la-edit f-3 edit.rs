@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_mahasiswa_icon las las la-edit f-3 edit</name>
+   <tag></tag>
+   <elementGuidId>f951c3e3-8625-4d58-ac0e-557e0e024c29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[12]/td[6]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(12) > td:nth-of-type(6) > a.icon.las.las.la-edit.f-3.edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>37b392b5-2286-40bc-bac6-df2eae26cf7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>23</value>
+      <webElementGuid>0258661a-b351-4781-8209-a8f5d2d2ad3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon las las la-edit f-3 edit</value>
+      <webElementGuid>a4a9efe5-153d-480f-8520-91cfb0d799e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;main&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;dashboard&quot;]/div[@class=&quot;content-dashboard&quot;]/div[@class=&quot;container-table&quot;]/table[@class=&quot;table-main&quot;]/tbody[1]/tr[12]/td[6]/a[@class=&quot;icon las las la-edit f-3 edit&quot;]</value>
+      <webElementGuid>6c4f779f-8b41-4d54-91a3-e753e0519c3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[12]/td[6]/a[2]</value>
+      <webElementGuid>df7a7e8d-b090-42b3-a101-cdf2d5505212</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

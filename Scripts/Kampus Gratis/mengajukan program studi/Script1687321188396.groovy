@@ -1,0 +1,39 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://mknows-fe-kg.vercel.app/')
+
+WebUI.click(findTestObject('Object Repository/mengajukan program studi/Page_Kampus Gratis - Home/button_Masuk'))
+
+WebUI.setText(findTestObject('Object Repository/mengajukan program studi/Page_/input__email'), 'student1@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/mengajukan program studi/Page_/input__password'), 'HeCM15nHKBI=')
+
+WebUI.click(findTestObject('Object Repository/mengajukan program studi/Page_/button_Masuk'))
+
+WebUI.click(findTestObject('Object Repository/mengajukan program studi/Page_Kampus Gratis - Penugasan/p_Rencana Studi'))
+
+WebUI.click(findTestObject('Object Repository/mengajukan program studi/Page_Kampus Gratis - Piih Fakultas/img_Pilihan Fakultas_object-cover rounded-lg'))
+
+WebUI.click(findTestObject('Object Repository/mengajukan program studi/Page_Kampus Gratis -/div_Pembiayaan dan Optimalisasi Bisnis'))
+
+WebUI.click(findTestObject('Object Repository/mengajukan program studi/Page_Kampus Gratis -/button_Mengajukan'))
+

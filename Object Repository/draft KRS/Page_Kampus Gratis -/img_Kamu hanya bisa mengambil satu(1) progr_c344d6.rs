@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Kamu hanya bisa mengambil satu(1) progr_c344d6</name>
+   <tag></tag>
+   <elementGuidId>284f03c8-b793-4457-b438-3781aa9743f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div/div[2]/div[2]/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.object-cover.rounded-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2a60b074-2afc-4fac-b99f-a6b2fedf769e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Picture of the author</value>
+      <webElementGuid>833b646a-ed34-4c77-b3ab-48a53e8eae0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>08d6f055-1935-4cf3-a4ed-8f73f8645e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nimg</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f0bf34d7-20a2-41e2-97d4-d12eafaf36fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>object-cover rounded-lg</value>
+      <webElementGuid>aadd70db-b7b0-45e0-bebe-14a8904125ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/section[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;px-10&quot;]/div[@class=&quot;grid grid-cols-1 gap-4 pb-40 lg:grid-cols-4&quot;]/a[1]/div[@class=&quot;px-3 rounded-lg  flex auto p-4 flex-col&quot;]/img[@class=&quot;object-cover rounded-lg&quot;]</value>
+      <webElementGuid>24cf9a06-45e7-45a3-b56a-7964be0cf4db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div[2]/div[2]/a/div/img</value>
+      <webElementGuid>b05b7a44-88d0-4246-85df-14bd23c1ec92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Picture of the author']</value>
+      <webElementGuid>bfe8ce38-c085-4f87-a6d0-38d786a77560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>f9d8e54f-0a53-458f-9e2e-ae115226c2d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Picture of the author']</value>
+      <webElementGuid>772bf158-c90f-49ac-ba2f-c60840f2eb16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sarjana (S1)</name>
+   <tag></tag>
+   <elementGuidId>337c0dce-4090-49cd-abd3-1af77d9522c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='headlessui-listbox-option-:rt:']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c199fa8-edc4-408a-b950-fe46e7f75df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[14px]</value>
+      <webElementGuid>670d8cef-5240-4b9a-a121-6a1d880e6b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sarjana (S1)</value>
+      <webElementGuid>502b7fba-302e-4c9e-aee7-a9af49818ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-listbox-option-:rt:&quot;)/span[@class=&quot;text-[14px]&quot;]</value>
+      <webElementGuid>b1c827ce-ace0-4cd1-9ec0-a9bf30113338</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='headlessui-listbox-option-:rt:']/span</value>
+      <webElementGuid>5ff73364-8da7-4b2b-9f39-7f4013ba2282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diploma 1 / 2 / 3'])[1]/following::span[1]</value>
+      <webElementGuid>d7c2681d-fc97-4879-87ca-4124993e8726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tamat SMA / setingkat'])[1]/following::span[2]</value>
+      <webElementGuid>9404d52c-4326-4cb1-89a4-fe6f8c3f97ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Magister (S2)'])[1]/preceding::span[1]</value>
+      <webElementGuid>849c4fdb-a572-4e30-9afe-e9c7771b25e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doktor (S3)'])[1]/preceding::span[2]</value>
+      <webElementGuid>ecf78fa4-e47f-4317-a744-5ec5168eab95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sarjana (S1)']/parent::*</value>
+      <webElementGuid>7bf78a82-4633-467d-a206-98f543608605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/span</value>
+      <webElementGuid>0d47612f-795b-4ef0-b425-de119f466c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sarjana (S1)' or . = 'Sarjana (S1)')]</value>
+      <webElementGuid>19826031-62ec-48ec-9db8-a0f38048a9a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

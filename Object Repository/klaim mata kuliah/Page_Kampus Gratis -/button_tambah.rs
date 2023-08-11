@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_tambah</name>
+   <tag></tag>
+   <elementGuidId>fbbefaf9-0990-48f1-9f49-cae723bc88ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/section/div[2]/div[2]/div[2]/div/div[2]/div[6]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.flex.gap-2.items-center.p-4.font-semibold.text-blue-600</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>097af827-b615-4660-a749-144130f67d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex gap-2 items-center p-4 font-semibold text-blue-600</value>
+      <webElementGuid>43055b99-e1ff-4a09-b4e7-c245955b5c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> tambah </value>
+      <webElementGuid>697666c5-bb74-48f5-9f0d-7bcc2fa186ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/section[@class=&quot;flex flex-col h-full&quot;]/section[@class=&quot;min-h-screen bg-[#FAFAFA] px-[70px] w-full&quot;]/div[2]/div[2]/div[@class=&quot;p-8 overflow-auto whitespace-nowrap&quot;]/div[@class=&quot;grid grid-flow-row auto-rows-auto&quot;]/div[@class=&quot;grid grid-flow-col auto-cols-min mx-auto border border-[#e5e7eb] divide-neutral-400 dark:divide-gray-700 w-full text-[16px]&quot;]/div[@class=&quot;w-[177px] dark:divide-gray-700 lg:text-start text-center py-3 font-medium md:text-[16px] lg:text-[16px] text-[10px] dark:bg-transparent&quot;]/button[@class=&quot;flex gap-2 items-center p-4 font-semibold text-blue-600&quot;]</value>
+      <webElementGuid>d0a5925e-8496-49b5-bd65-33ab8e753209</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/section/div[2]/div[2]/div[2]/div/div[2]/div[6]/button</value>
+      <webElementGuid>0ad7e25d-34cb-4b3c-aa05-4a701f121b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Inggris'])[1]/following::button[1]</value>
+      <webElementGuid>9a0ae173-d4b1-4f0b-a098-184e23555760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tindakan'])[1]/following::button[1]</value>
+      <webElementGuid>2db4627d-5361-46f6-9f49-2c1787d3c54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kalkulus'])[1]/preceding::button[1]</value>
+      <webElementGuid>0108693c-be67-492f-a2c9-39a284187d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tambah'])[2]/preceding::button[1]</value>
+      <webElementGuid>3e246341-56ad-4ed7-899d-ad0f27970e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='tambah']/parent::*</value>
+      <webElementGuid>54513039-7ca0-44cc-8014-77cda7417072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>3aa47a7e-2679-4949-85fc-957d83bf5a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' tambah ' or . = ' tambah ')]</value>
+      <webElementGuid>a8112b95-cc40-4acb-92f9-5f0ee0d047ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

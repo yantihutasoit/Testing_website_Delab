@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Universitas Asal (optional)_university</name>
+   <tag></tag>
+   <elementGuidId>142b9b23-469f-483d-9a07-f96cece5019d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='university']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;university&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4aeec282-22c1-4e66-951c-a7499f8097d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>da6909cb-ed29-4566-b209-5e60c660172e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>control</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>81bd8c41-2b56-45cb-846e-3b336542ea2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>outline-none focus:outline-none w-full text-[#000] text-sm border-[0.5px] border-neutral-400 shadow-sm py-2 rounded-md  px-4 </value>
+      <webElementGuid>bc98caea-67cb-41e0-99b4-eb966619e2ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Universitas Asal (optional)</value>
+      <webElementGuid>0c5a2f3c-7bc6-4a20-90cf-264c00184ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>university</value>
+      <webElementGuid>fc7d950e-6ed5-49ea-8fa9-abe869b2158d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan universitas asal</value>
+      <webElementGuid>19f22763-27e9-4b6e-a224-d72105df8431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/section[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;bg-[#F5F5F5] w-full pb-[249px]&quot;]/section[@class=&quot;mt-[40px] lg:px-[70px] md:px-[60px] px-[20px] flex flex-col&quot;]/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;bg-white rounded-[8px] md:w-[95%] w-full flex auto p-4 flex-col cursor-pointer&quot;]/section[@class=&quot;flex&quot;]/div[@class=&quot;w-full relative&quot;]/div[@class=&quot;mb-8&quot;]/div[1]/div[@class=&quot;p-6 text-[14px] font-[400] text-[#262626] dark:text-[#fff] undefined&quot;]/form[1]/div[@class=&quot;lg:flex w-full gap-[55px]&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;form-label mb-3&quot;]/section[@class=&quot;flex flex-col w-auto my-1 gap-y-2&quot;]/section[@class=&quot;relative flex items-center w-auto&quot;]/input[@class=&quot;outline-none focus:outline-none w-full text-[#000] text-sm border-[0.5px] border-neutral-400 shadow-sm py-2 rounded-md  px-4&quot;]</value>
+      <webElementGuid>c74b6daa-a57c-47db-8274-9955f6784f14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='university']</value>
+      <webElementGuid>15aeb21c-f718-41ee-8c75-c722ec9256d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/section/div/div/section/div/div[2]/div/div/form/div/div[2]/div[5]/section/section/input</value>
+      <webElementGuid>4b63c37a-9feb-4e14-80aa-2b580e0d2e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/section/section/input</value>
+      <webElementGuid>7948bdf3-4a2b-4a7a-91a4-2d722b8f3e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'university' and @placeholder = 'Masukkan universitas asal']</value>
+      <webElementGuid>613c204e-7a96-4f17-936f-fd21f3060b23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pembiayaan dan Optimalisasi Bisnis</name>
+   <tag></tag>
+   <elementGuidId>02605747-56b5-4429-88b8-19afca637530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section/div/div[2]/div[2]/a/div/section/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>50bc8917-c6b5-41f4-b0b5-d76f2051cf6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xl mt-0 text-[#106FA4] w-full</value>
+      <webElementGuid>64ea659c-d8f5-4d83-877e-80d71cce7395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pembiayaan dan Optimalisasi Bisnis</value>
+      <webElementGuid>83cfd359-4890-4a46-954e-60c24c709744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/section[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;px-10&quot;]/div[@class=&quot;grid grid-cols-1 gap-4 pb-40 lg:grid-cols-4&quot;]/a[1]/div[@class=&quot;px-3 rounded-lg  flex auto p-4 flex-col&quot;]/section[@class=&quot;flex&quot;]/div[@class=&quot;text-xl mt-0 text-[#106FA4] w-full&quot;]</value>
+      <webElementGuid>0094dd45-f7e5-42ea-b7f7-f7261a3597b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div[2]/div[2]/a/div/section/div</value>
+      <webElementGuid>b62ed73d-1d31-4682-956a-f101f74f330d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamu hanya bisa mengambil satu(1) program studi'])[1]/following::div[6]</value>
+      <webElementGuid>ed7f87df-284a-4d86-9ec1-770261940022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[12]</value>
+      <webElementGuid>73a0d907-217e-4466-bc65-ed8d61ecbfdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pembiayaan dan Optimalisasi Bisnis']/parent::*</value>
+      <webElementGuid>6389c4f4-fbaf-4bc7-b935-4e6c2c474923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/section/div</value>
+      <webElementGuid>824bab43-7507-4184-a8ec-08f30fa5bec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pembiayaan dan Optimalisasi Bisnis' or . = 'Pembiayaan dan Optimalisasi Bisnis')]</value>
+      <webElementGuid>cf72279f-e602-4856-ba81-2a8ad7970242</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

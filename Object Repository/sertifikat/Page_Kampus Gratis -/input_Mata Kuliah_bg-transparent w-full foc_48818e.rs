@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Mata Kuliah_bg-transparent w-full foc_48818e</name>
+   <tag></tag>
+   <elementGuidId>2d3e8f6f-1296-451e-bb42-d1bb79e7d3e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bb6e1f12-065c-44f0-9c0e-bdeeed77df1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>62741306-e458-407c-bb19-96b1c6f51060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-transparent w-full focus:outline-none</value>
+      <webElementGuid>8c908a4e-aed3-4e6b-a47f-00cd951539ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari Mata Kuliah</value>
+      <webElementGuid>2d53af77-f3e3-4241-8a80-8b91c8001637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/section[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-[85%] mx-auto&quot;]/div[@class=&quot;flex justify-center items-center flex-col&quot;]/div[@class=&quot;bg-gray-200 w-full mt-6 rounded-[8px] px-6 py-4&quot;]/div[@class=&quot;flex gap-x-6&quot;]/input[@class=&quot;bg-transparent w-full focus:outline-none&quot;]</value>
+      <webElementGuid>7bb52b77-48f1-4e64-aeb4-80a3067d067f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>21d42f52-b72d-4cea-a80e-bddd6acd1444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/div[2]/div/div/div/input</value>
+      <webElementGuid>fa68e0e5-abb4-45ef-a5a2-4f118c42e2d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>3e4bf007-0779-4040-a054-05aa2ab62553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari Mata Kuliah']</value>
+      <webElementGuid>4522a26a-fc6d-44c4-bc4a-f31182c0189a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

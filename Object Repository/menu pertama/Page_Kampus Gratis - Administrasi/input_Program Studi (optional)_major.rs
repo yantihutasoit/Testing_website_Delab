@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Program Studi (optional)_major</name>
+   <tag></tag>
+   <elementGuidId>2690f605-768a-491b-922c-3ec9030c46c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='major']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;major&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>15643562-777a-4f6c-a6d1-35b81e211cf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ec2419fc-d347-4458-b7b2-e82875a5262c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>control</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>3ee9ceac-354a-45b9-a426-1730c6952b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>outline-none focus:outline-none w-full text-[#000] text-sm border-[0.5px] border-neutral-400 shadow-sm py-2 rounded-md  px-4 </value>
+      <webElementGuid>f9eacf55-b4bf-4f98-b313-1d25ff3a38e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Program Studi (optional)</value>
+      <webElementGuid>2a951fa9-3315-45f0-bf6a-5c1a531ebe89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>major</value>
+      <webElementGuid>a18d7953-a970-4b6c-86dc-b7416f38d5be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Program Studi (optional)</value>
+      <webElementGuid>7d2eae1a-9c9c-4849-9cc2-d45cd1aeb628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/section[@class=&quot;flex flex-col h-full&quot;]/div[@class=&quot;bg-[#F5F5F5] w-full pb-[249px]&quot;]/section[@class=&quot;mt-[40px] lg:px-[70px] md:px-[60px] px-[20px] flex flex-col&quot;]/div[@class=&quot;flex justify-center&quot;]/div[@class=&quot;bg-white rounded-[8px] md:w-[95%] w-full flex auto p-4 flex-col cursor-pointer&quot;]/section[@class=&quot;flex&quot;]/div[@class=&quot;w-full relative&quot;]/div[@class=&quot;mb-8&quot;]/div[1]/div[@class=&quot;p-6 text-[14px] font-[400] text-[#262626] dark:text-[#fff] undefined&quot;]/form[1]/div[@class=&quot;lg:flex w-full gap-[55px]&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;form-label mb-3&quot;]/section[@class=&quot;flex flex-col w-auto my-1 gap-y-2&quot;]/section[@class=&quot;relative flex items-center w-auto&quot;]/input[@class=&quot;outline-none focus:outline-none w-full text-[#000] text-sm border-[0.5px] border-neutral-400 shadow-sm py-2 rounded-md  px-4&quot;]</value>
+      <webElementGuid>ad8ad453-200d-43df-ae8b-1c20c4b007ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='major']</value>
+      <webElementGuid>908a8762-8b54-4dee-a8da-4f7d5fd010ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/div/section/div/div/section/div/div[2]/div/div/form/div/div/div[6]/section/section/input</value>
+      <webElementGuid>bd7efc96-00cd-47e0-a4ce-935646a22d01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/section/section/input</value>
+      <webElementGuid>47417c45-0b1b-4cda-8e72-0d9881ce9b24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'major' and @placeholder = 'Masukkan Program Studi (optional)']</value>
+      <webElementGuid>5bd8a8d9-603c-4e6e-a5fc-f1e52e43c95a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

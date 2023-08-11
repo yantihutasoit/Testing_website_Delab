@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lihat Draft KRS</name>
+   <tag></tag>
+   <elementGuidId>452291b2-936e-46e8-85fd-36d58c8e56c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d2f13472-c1be-4dbe-933e-3a51e764bc2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[230px] h-[56px] border-[#106FA4] border-2 rounded-[8px] text-[#106FA4] </value>
+      <webElementGuid>d1a5ae9e-2ab7-4bc0-9bfe-713044eb5d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7bfb48c3-1962-4cfa-b449-8fafd6890418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Draft KRS</value>
+      <webElementGuid>06b3a5f9-2f24-434b-a7f7-949a8e9f8d6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;font-montserrat&quot;]/section[@class=&quot;flex flex-col h-full&quot;]/section[@class=&quot;min-h-screen bg-[#FAFAFA] px-[70px] w-full&quot;]/div[2]/div[2]/div[@class=&quot;p-8 overflow-auto whitespace-nowrap&quot;]/div[@class=&quot;relative z-50&quot;]/div[@class=&quot;fixed inset-0 z-10 overflow-y-auto&quot;]/div[@class=&quot;flex items-center justify-center w-full min-h-full p-4 text-center sm:items-center sm:p-0&quot;]/div[@class=&quot;relative w-auto overflow-hidden text-left transition-all transform rounded-lg shadow-xl sm:my-8 undefined&quot;]/div[@class=&quot;w-full px-4 pt-5 pb-4 bg-white sm:p-6 sm:pb-4&quot;]/div[@class=&quot;mt-3 text-center sm:mt-0 sm:text-left&quot;]/div[@class=&quot;flex items-center w-full&quot;]/div[@class=&quot;flex flex-col items-center justify-center w-full py-10 text-center dark:bg-[#222529] !h-80 !w-[100%] text-md py-10&quot;]/div[@class=&quot;flex w-full flex-col justify-center&quot;]/div[@class=&quot;flex gap-3 my-2 py-4&quot;]/button[@class=&quot;w-[230px] h-[56px] border-[#106FA4] border-2 rounded-[8px] text-[#106FA4]&quot;]</value>
+      <webElementGuid>c139747b-1ecc-4120-954c-a0f951321388</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>7dc91cfe-dd8f-4bbb-93c4-439b0fe7df74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section/section/div[2]/div[2]/div[2]/div[2]/div[2]/div/div/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>4174c71a-ab13-4166-b710-bd2230fc7919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft KRS'])[2]/following::button[1]</value>
+      <webElementGuid>286ffdb6-f922-481f-b521-fb439a5e3d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali'])[1]/preceding::button[1]</value>
+      <webElementGuid>125d1cfa-da9a-4705-9dbc-4fccd8f132f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Draft KRS']/parent::*</value>
+      <webElementGuid>0ca44064-7d3d-4842-a665-7479ea3ccec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>9b977fca-ecae-40f1-8d9c-f796d6c86c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Lihat Draft KRS' or . = 'Lihat Draft KRS')]</value>
+      <webElementGuid>a42a2022-31dc-4878-afcb-4d9c683d4d14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

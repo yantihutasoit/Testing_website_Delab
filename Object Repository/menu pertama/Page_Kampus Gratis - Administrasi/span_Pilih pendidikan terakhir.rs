@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilih pendidikan terakhir</name>
+   <tag></tag>
+   <elementGuidId>7218e9f1-b7dd-42d7-be08-cbe31fcd70da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headlessui-listbox-button-:rk:']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4047f961-f981-4155-a0e6-034904b806ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>!text-black text-[10px] text-neutral-600 
+                       text-[16px]
+                      </value>
+      <webElementGuid>0a7d3231-ad0f-499e-bc7b-dc1301d95a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih pendidikan terakhir</value>
+      <webElementGuid>b6e527d0-1308-4a71-b722-357f513e88f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-listbox-button-:rk:&quot;)/div[@class=&quot;flex justify-between items-center&quot;]/span[@class=&quot;!text-black text-[10px] text-neutral-600 
+                       text-[16px]&quot;]</value>
+      <webElementGuid>f1e3bcd1-7776-4d3e-84ed-dcb999762788</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-listbox-button-:rk:']/div/span</value>
+      <webElementGuid>d2be08dd-9eeb-4a6b-bc58-1ef92cae5d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::span[1]</value>
+      <webElementGuid>6b47a256-84ee-4814-a304-4600841d2c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Universitas Asal (optional)'])[1]/preceding::span[2]</value>
+      <webElementGuid>38a3d78d-1676-4a24-bf45-3ae6fc9c423c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semester (optional)'])[1]/preceding::span[4]</value>
+      <webElementGuid>babeee32-495a-48ef-b6e9-e93a6221fa1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih pendidikan terakhir']/parent::*</value>
+      <webElementGuid>50ab9248-50b4-4350-b912-afa0183b700a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/button/div/span</value>
+      <webElementGuid>80e1ee35-254d-4efc-859b-6ac313788e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pilih pendidikan terakhir' or . = 'Pilih pendidikan terakhir')]</value>
+      <webElementGuid>ba7665aa-f5d3-484a-aa67-4a4a6f8500d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

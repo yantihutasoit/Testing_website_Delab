@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lihat Detail Nilai</name>
+   <tag></tag>
+   <elementGuidId>70cb2062-2284-4018-8f9f-2bd8a8180899</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3d4405d0-363a-4609-9d78-4cd108aec260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> bg-[#3EB449] hover:bg-[#339c3e] cursor-pointer transition-colors ease-in-out duration-300 shadow-md text-sm rounded-lg flex relative items-center justify-center text-white dark:bg-primary-500 w-full h-[42px] lg:w-[328px] lg:h-[56px] text-[16px] font-medium</value>
+      <webElementGuid>e81e4209-44e1-410a-80bf-16e3bbccf235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>52c1287c-b1c3-483e-8c62-63bbb91e5df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Detail Nilai</value>
+      <webElementGuid>febcb9dc-a026-4038-b678-5313daa1c75b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-tabs-panel-:ra:&quot;)/section[@class=&quot;flex flex-col gap-y-[50px] grid gap-y-10 __className_883b24 grid-cols-1 lg:grid-cols-2 justify-center gap-6  w-full&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;w-full flex justify-end mb-10&quot;]/button[@class=&quot;bg-[#3EB449] hover:bg-[#339c3e] cursor-pointer transition-colors ease-in-out duration-300 shadow-md text-sm rounded-lg flex relative items-center justify-center text-white dark:bg-primary-500 w-full h-[42px] lg:w-[328px] lg:h-[56px] text-[16px] font-medium&quot;]</value>
+      <webElementGuid>6341f366-ccfc-406a-8f2a-058b64303e0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>5ae5039c-41cd-4e02-b518-4fdbf2a41536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-tabs-panel-:ra:']/section/div[2]/div[2]/button</value>
+      <webElementGuid>86bc3ea9-c7f7-4213-a9c6-e27c08ad747b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rata-rata'])[1]/following::button[1]</value>
+      <webElementGuid>f57d8e06-4072-41a7-8b8a-fc1f853b5813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IPK'])[1]/following::button[1]</value>
+      <webElementGuid>4993bd2a-c99c-4687-9988-2f745e6bb23e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Detail Nilai']/parent::*</value>
+      <webElementGuid>80c93a37-d110-4afe-baa5-c69a3306ce22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div[2]/button</value>
+      <webElementGuid>99dc7603-451b-4a85-afa4-c73095d4d383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Lihat Detail Nilai' or . = 'Lihat Detail Nilai')]</value>
+      <webElementGuid>ac10ef5e-d609-4e15-913f-9446ba8d21d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
